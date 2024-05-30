@@ -1,3 +1,3 @@
 <?php
-echo “El gran Wyoming\n”;
+echo "Dani Moreno\n";
 ?>
