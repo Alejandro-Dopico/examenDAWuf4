@@ -1,3 +1,3 @@
 <?php
-echo “Mario Vaquerizo\n”;
+echo “Hola a todos!!\n”;
 ?>
