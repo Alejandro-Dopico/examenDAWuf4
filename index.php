@@ -4,6 +4,5 @@ include "hola.php";
 echo “Listado de personas:”
 include "persona.php";
 include “persona3.php”;
-include "persona2.php";
 ?>
 
